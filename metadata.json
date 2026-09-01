@@ -1,0 +1,6 @@
+{
+  "name": "St. Thomas College of Engineering & Technology, Kannur",
+  "description": "Official modern web portal for St. Thomas College of Engineering and Technology (STM Kannur) featuring admissions, academic departments, student hub, placement statistics, and campus AI assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
